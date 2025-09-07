@@ -28,5 +28,16 @@ print(f"Nevek: {set(nevek)}")
 print(tuple([1,2,3]))
 
 #HF: git parancsok
-#pl git init: adott mappa verziókövetésének inditása
-#   git add...
+
+#
+#
+# git clone - https://github.com/1tc-ladlev/Halozatprogramozas1.git  - a githubról klónozol
+# git init – adott mappa verziókövetésének indítása
+# git config --global user.name "felhasználóneved" – felhasználónév beállítása
+# git config --global user.email "emailed" – email beállítása
+# git status – repository állapotának lekérdezése
+# git add fajl.txt – fájlok stage-elése
+# git commit -m "üzenet" – stage-elt változtatások végleges mentése
+# git push – commitok feltöltése a távoli repóba
+#
+#

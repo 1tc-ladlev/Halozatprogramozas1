@@ -1,7 +1,7 @@
 #feladat: negyzet/teglalap kerületenek szamitasa 
 def beker(alakzat, oldal):
     """Bekéri az alakzat oldal oldalanak hosszát"""
-    oldalhossz = int(input("Kérem a {alakzat} {oldal} oldalának hosszát [cm]: "))
+    oldalhossz = int(input(f"Kérem a {alakzat} {oldal} oldalának hosszát [cm]: "))
     return oldalhossz
 
 def teglalapKerulete(a, b):

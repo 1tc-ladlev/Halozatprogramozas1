@@ -1,0 +1,1 @@
+gyumolcsok=["eper,dinnye"]
